@@ -1,6 +1,5 @@
 // Part Class
 // Item class for the database
-// Developer: Quan
 // 
 
 #ifndef PART_H_

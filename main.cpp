@@ -1,7 +1,6 @@
 //  main.cpp
 //  22C_TeaMProject
 //
-//  Developer: Peter, Jack 
 //
 
 // Adjust hashing functions here

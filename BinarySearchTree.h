@@ -1,5 +1,4 @@
 // Binary Search Tree ADT
-// Created by A. Student
 // Modified by: Thu Vo
 
 #ifndef _BINARY_SEARCH_TREE

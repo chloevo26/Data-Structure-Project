@@ -1,6 +1,5 @@
 /******************************************************************************
  LinkedList template
- Developer: Linh Tran (Cynthia)
  **/
 
 #ifndef LINKEDLIST_H_
