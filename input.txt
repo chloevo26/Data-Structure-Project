@@ -1,0 +1,26 @@
+IC901 Intel Core i9-9900K; CPU; Intel 499 484 Jan
+RT801 Nvidia RTX 2080; Graphic Card; Nvidia 699 150 Jan
+GT801 Nvidia GTX 1080 Ti; Graphic Card; Nvidia 499 200 Jan
+AS502 Asus ASUS AC1200 Bluetooth Adapter; Bluetooth Card; Asus 34.99 500 Feb
+CR802 Crucial 8GB DDR4 Memory; Memory; Crucial 46.93 200 Feb
+IC903 Intel Core i9-9900K; CPU; Intel 489 148 Mar
+AR703 AMD Ryzen 7 2700X; CPU; AMD 279.99 290 Mar
+AR704 AMD Ryzen 7 2700X; CPU; AMD 329.99 300 Apr
+SS104 Samsung 960 Evo 1TB SSD; Storage; Samsung 169.99 585 Apr
+CS504 Corsair 512GB SSD; Storage; Corsair 119.99 531 Apr
+AG702 AMD Radeon VII; Graphic Card; AMD 699.99 200 Feb
+GS603 G.Skill TridentZ 16GB DDR4 Memory; Memory; G.Skill 129.99 120 Mar
+AS602 Asus RTX 2060; Graphic Card; Asus 349.99 130 Feb
+AS701 Asus Crosshair VI Hero; Motherboard; Asus 179.99 130 Jan
+AC403 Acer Predator 144hz Monitor; Monitor; Acer 349.99 127 Mar
+TP103 TP-Link AC1300 Wireless Wifi Card; Wifi Card; TP-Link 32.99 90 Mar
+AG705 AMD Radeon VII; Graphic Card; AMD 679.99 100 May
+AX802 AMD Radeon RX580; Graphic Card; AMD 329.99 120 Feb
+AX501 AMD Radeon RX550; Graphic Card; AMD 99.99 190 Jan
+EV101 EVGA G3 1000W Power Supply; Power Supply; EVGA 169.99 400 Jan
+AS702 Asus Crosshair VI Hero; Motherboard; Asus 182.49 130 Feb
+EV102 EVGA G3 1000W Power Supply; Power Supply; EVGA 139.99 400 Feb
+GT803 Nvidia GTX 1080 Ti; Graphic Card; Nvidia 359.99 200 Mar
+CS501 Corsair 512GB SSD; Storage; Corsair 129.99 531 Jan
+AR501 AMD Ryzen 5 2600X; CPU; AMD 149.99 140 Jan
+RT703 Nvidia RTX 2070; Graphic Card; Nvidia 499 150 Mar
